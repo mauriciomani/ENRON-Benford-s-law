@@ -1,0 +1,7 @@
+matplotlib==2.1.0
+numpy==1.13.3
+numpydoc==0.7.0
+pandas==0.20.3
+pandocfilters==1.4.2
+PyPDF2==1.26.0
+scipy==0.19.1

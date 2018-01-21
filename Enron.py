@@ -2,7 +2,7 @@
 """
 Created on Mon Jan 15 21:14:28 2018
 
-@author: mauri
+@author: Mauricio Mani: mauri
 """
 
 import PyPDF2
@@ -401,7 +401,14 @@ def todo(direc, pagina, cuenta):
     ks_test(df, cuenta)
     return(df)
     
+"""
+El siguiente es un ejemplo de como correr todo el sistema.
+"""
+
+direccion = "data/EnronAnnualReport2000.pdf" #Archivo a analizar.
+estado = 'Total' #Estado Financiero a analizar.
+pagina = 33 #Pagina en donde inician los estados financieros.
 
 if __name__ =='__main__':
-    df = todo("C:/Users/mauri/Desktop/Big Data/Portfolio/Enron/EnronAnnualReport2000.pdf", 33, 'Cash Flows')
+    df = todo(direccion, pagina, estado)
 
