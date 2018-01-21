@@ -24,6 +24,10 @@ muestran los estados financieros de la empresa sea cierto.
 * Cambios en el capital contable: `Changes Equity`.
 
 ## Caso Enron.
+<br/>
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Logo_de_Enron.svg/1200px-Logo_de_Enron.svg.png" alt="Enron">
+</p><br/>
 Enron fue una empresa energética. Al principio se dedicaba a la administración de gasoductos 
 luego expandió sus operaciones como intermediario de los contratos de futuros y derivados del gas natural 
 y la construcción y operación de gasoductos y plantas de energía por todo el mundo. 
@@ -46,6 +50,10 @@ La idea de analizar las finanzas del caso Enron fue debido a un capitulo en el l
 dedicado a la ley de Benford. Los numeros que genera un humano no siguen la ley de Benford.
 > Los numeros que aparecen en la naturaleza siguen una distribución particular.
 
+<br/>
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Rozklad_benforda.svg/220px-Rozklad_benforda.svg.png" alt="Benford">
+</p><br/>
 Según la ley de Benford el numero 1 aparece con mayor frecuencia que el numero 2, y el número 2 aparece con mayor frecuencia que 
 el numero 3 y así sucevivamente. El ser humano cuando va inventar numeros, quiere que estos parezcan lo mas aleatorios posibles.
 Y por alguna razón cree que el 1 o el 3 no son tan aleatorios como el 6, 7 y 8. Por lo que los repite con mayor frecuencia.
