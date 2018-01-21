@@ -1,6 +1,10 @@
 Uno de los mayores fraudes de la historia
 --------------------------------------------
 
+#Traducciones:
+* [Español](README.md)
+* [Ingles](README-en.md)
+
 A través de la Ley de Benford descubriras los fraudes contables en los estados financieros de Enron del año 1998, 1999 y 2000.
 Podrás visualizar la aparición de los digitos en cada uno de los cuatro estados mas importantes generados por la empresa
 y se genran dos pruebas estadísticas para la aparición de ciertos digitos o unos mas extremos.
@@ -34,7 +38,7 @@ y la construcción y operación de gasoductos y plantas de energía por todo el mun
 En 1997 llegó como COO (Chief Operations Officer) Jeff Skilling, esperando que los beneficios aumentaran
 pero estos no lo hacian. La gente de Enron recibia su salario en acciones, por lo que les importaba que 
 subieran de precio y harían lo que fuera para lograrlo.
-Enron era auditada por Arthur Andersen en 1913 y desapareció en el 2002 debido a las operaciones contables
+Enron era auditada por Arthur Andersen esta empreza fue fundada en 1913 y desapareció en el 2002 debido a las operaciones contables
 fraudulentas que cubrió en Enron, recibian alrededor de $1,000,000 de dólares semanales.
 En agosto del año 2000 lograron una cotización de $ 90.56 dólares por cada acción. Para el año 2001 empezaron 
 a descender hasta que el 2 de diciembre pidieron protección por bancarrota.
