@@ -58,6 +58,9 @@ According to Benford's law, number one appears more frequently than number two, 
 and so on. The human being when trying to generate numbers, wants to be as random as posible. And for some reason belive that number 1, 2 or 3
 are not as random as 6, 7, 8. That is probably why they are repeted more frequently.
 
+## Results for the year 2000
+This is the last report for the already broken Enron Corp. This script will let you visualize the digits count of all financial statements presented on that year, also it plots the relative digits count. It also allows to compare the Benford distribution with Enron's and its relative comparisons. Lastly it plots the cumulative distribution for the Kolmogorov-Smirnov test.
+
 ## Statistical tests.
 You will make two statistical tests.
 * Chi squared goodness of fit.
