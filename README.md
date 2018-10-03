@@ -68,7 +68,17 @@ Y por alguna razón cree que el 1 o el 3 no son tan aleatorios como el 6, 7 y 8.
 <br/>
 <p align="center">
 <img src="data/total_estados_financieros.png" alt="Benford">
-</p><br/>El script permite conocer la cuenta de los digitos en todos los estados financieros presentados ese año, además permite visualizar la aparición de los digitos de forma relativa. Además permite comparar una distribucón de Benford con la distribución vista en Enron y sus respectivas comparaciones relativas. Por último gráfica la distribución acumulada de la prueba Kolmogorov-Smirnov.
+</p><br/>El script permite conocer la cuenta de los digitos en todos los estados financieros presentados ese año, además permite visualizar la aparición de los digitos de forma relativa. 
+<br/>
+<p align="center">
+<img src="data/comparacion_total_edos_financieros.png" alt="Benford">
+</p><br/>
+Además permite comparar una distribucón de Benford con la distribución vista en Enron y sus respectivas comparaciones relativas. 
+<br/>
+<p align="center">
+<img src="data/distribucion_acumulada_kolmogorov.png" alt="Benford">
+</p><br/>
+Por último gráfica la distribución acumulada de la prueba Kolmogorov-Smirnov.
 
 ## Pruebas estadísticas.
 Realizaras dos pruebas estadísticas:
