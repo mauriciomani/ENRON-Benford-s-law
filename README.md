@@ -64,7 +64,11 @@ el numero 3 y así sucevivamente. El ser humano cuando va inventar numeros, quie
 Y por alguna razón cree que el 1 o el 3 no son tan aleatorios como el 6, 7 y 8. Por lo que los repite con mayor frecuencia.
 
 ## Resultados para el año 2000
-Último reporte financiero de la ya quebrada Enron Corp. El script permite conocer la cuenta de los digitos en todos los estados financieros presentados ese año, además permite visualizar la aparición de los digitos de forma relativa. Además permite comparar una distribucón de Benford con la distribución vista en Enron y sus respectivas comparaciones relativas. Por último gráfica la distribución acumulada de la prueba Kolmogorov-Smirnov.
+Último reporte financiero de la ya quebrada Enron Corp. 
+<br/>
+<p align="center">
+<img src="data/total_estados_financieros.png" alt="Benford">
+</p><br/>El script permite conocer la cuenta de los digitos en todos los estados financieros presentados ese año, además permite visualizar la aparición de los digitos de forma relativa. Además permite comparar una distribucón de Benford con la distribución vista en Enron y sus respectivas comparaciones relativas. Por último gráfica la distribución acumulada de la prueba Kolmogorov-Smirnov.
 
 ## Pruebas estadísticas.
 Realizaras dos pruebas estadísticas:
