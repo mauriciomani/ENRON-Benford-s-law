@@ -59,7 +59,22 @@ and so on. The human being when trying to generate numbers, wants to be as rando
 are not as random as 6, 7, 8. That is probably why they are repeted more frequently.
 
 ## Results for the year 2000
-This is the last report for the already broken Enron Corp. This script will let you visualize the digits count of all financial statements presented on that year, also it plots the relative digits count. It also allows to compare the Benford distribution with Enron's and its relative comparisons. Lastly it plots the cumulative distribution for the Kolmogorov-Smirnov test.
+This is the last report for the already broken Enron Corp. 
+<br/>
+<p align="center">
+<img src="data/total_estados_financieros.png" alt="Benford">
+</p><br/>
+This script will let you visualize the digits count of all financial statements presented on that year, also it plots the relative digits count. 
+<br/>
+<p align="center">
+<img src="data/comparacion_total_edos_financieros.png" alt="Benford">
+</p><br/>
+It also allows to compare the Benford distribution with Enron's and its relative comparisons. 
+<br/>
+<p align="center">
+<img src="data/distribucion_acumulada_kolmogorov.png" alt="Benford">
+</p><br/>
+Lastly it plots the cumulative distribution for the Kolmogorov-Smirnov test.
 
 ## Statistical tests.
 You will make two statistical tests.
